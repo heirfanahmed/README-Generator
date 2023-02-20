@@ -61,23 +61,6 @@ node index.js
 2. Node.js.
 
 
-## Action
-
-1. Created a simple application that allows a user to see weather condition ans based on that the web app recomments movies.
-
-2. This app runs in the browser and feature dynamically updated HTML and CSS powered by Javascript using jQuery.
-
-3. It is linked to Moment.js library along with the jQuery library and UI library.
-     
-4. It adapts to multiple screen sizes.
-
-5. The following points show how the app should works:
-
-    * Displays the current weather condition based on selected city.
- 
-    * Recommends 12 movies to watch.
-
-
 ## Screen Shot of the README file generated:
 
 ![README-Generator](https://.png)
@@ -86,7 +69,7 @@ node index.js
 ## Links to the deployed website and repository URL:
 
 * Repository URL:
-    !https://github.com/heirfanahmed/README-Generator
+    https://github.com/heirfanahmed/README-Generator
 
 * Deployed website:
-    !https://heirfanahmed.github.io/README-Generator/
+    https://heirfanahmed.github.io/README-Generator/
