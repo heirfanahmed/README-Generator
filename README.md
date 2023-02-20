@@ -85,6 +85,8 @@ node index.js
 
 ## Links to the deployed website and repository URL:
 
-*** Repository URL: https://github.com/heirfanahmed/README-Generator
+* Repository URL:
+    !https://github.com/heirfanahmed/README-Generator
 
-*** Deployed website: https://heirfanahmed.github.io/README-Generator/
+* Deployed website:
+    !https://heirfanahmed.github.io/README-Generator/
