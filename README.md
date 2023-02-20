@@ -13,9 +13,7 @@ node index.js
 
 ## User Story
 
-```text
 * As a developer, I want a README generator through the command line so that, I can quickly create a professional README for a new project.
-```
 
 
 ## Acceptance Criteria
@@ -82,7 +80,7 @@ node index.js
 
 ## Screen Shot of the README file generated:
 
-![README-Generator](https://user-images.githubusercontent.com/82023025/217381077-2ba3c2c2-f6fa-4eb4-a4b5-a4bc1a876f37.png)
+![README-Generator](https://.png)
 
 
 ## Links to the deployed website and repository URL:
